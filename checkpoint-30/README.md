@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# GeM2-14B-Korean-RAG-QLoRA
-=======
 ---
 library_name: peft
 base_model: vaiv/GeM2-Llamion-14B-Chat
@@ -203,4 +200,3 @@ Carbon emissions can be estimated using the [Machine Learning Impact calculator]
 ### Framework versions
 
 - PEFT 0.11.1
->>>>>>> cff336f (Initial commit)
