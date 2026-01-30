@@ -1,0 +1,22 @@
+# logs & experiments
+runs/
+mlruns/
+wandb/
+tensorboard/
+
+# checkpoints
+checkpoint-*/
+*.ckpt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# mac
+.DS_Store
+
+# secrets
+*.env
+.env
