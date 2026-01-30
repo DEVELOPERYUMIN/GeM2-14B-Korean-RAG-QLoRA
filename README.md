@@ -39,7 +39,9 @@
 #### 📌 Retrieval
 - 질문과 벡터 유사도 비교  
 - Top-k 문서 추출  
-- LLM 기반 1차 필터 적용  
+- LLM 기반 1차 필터 적용
+
+![RAG_Architecture](https://github.com/user-attachments/assets/d2e10a65-ac86-4289-ae67-6b324f42fdee)
 
 ---
 
